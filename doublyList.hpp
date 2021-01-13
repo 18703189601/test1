@@ -8,6 +8,9 @@
 #define _DOUBLYLIST_HPP 
 
 #include <iostream>
+#include <string>
+#include <vector>
+#include <deque>
 #include "linearList.h"
 
 template<class T>
