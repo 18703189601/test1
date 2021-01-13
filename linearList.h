@@ -4,7 +4,8 @@
  @File Name: linearList.h
  @Description:
  ************************************************************************/
-#pragma once 
+#ifndef LINEARLIST_H
+#define LINEARLIST_H
 
 template<class T>
 class linearList
@@ -27,3 +28,5 @@ class linearList
         virtual void output() const = 0;       //输出
         //virtual linearList<T>& operator=(linearList<T>& L) = 0; // 复制构造函数
 };
+
+#endif
