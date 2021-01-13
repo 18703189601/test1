@@ -13,7 +13,6 @@ using namespace std;
 
 int main()
 {
-/*
     doublyList<int> L;
     L.push_front(3);
     L.push_front(4);
@@ -31,6 +30,5 @@ int main()
     cout << "************************" << endl;
     L.output(L.length(), false);
     cout << "The length of the list is: " << L.length() << endl;
-*/
     return 0;
 }
