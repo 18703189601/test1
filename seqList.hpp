@@ -9,6 +9,9 @@
 
 #include <iostream>
 #include <cstdlib>
+#include <string>
+#include <list>
+#include <deque>
 #include "linearList.h"
 
 const int defaultSize = 100;
