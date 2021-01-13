@@ -10,7 +10,10 @@
 #include "doublyList.hpp"
 
 using namespace std;
-
+/*
+ * hhhhck
+ * fwiefhwiufhu
+ */
 int main()
 {
     doublyList<int> L;
