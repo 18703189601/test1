@@ -14,6 +14,11 @@
 #include <deque>
 #include "linearList.h"
 
+/**
+ * hhhh
+ * edit by master
+ **/
+
 const int defaultSize = 100;
 
 template<class T>
